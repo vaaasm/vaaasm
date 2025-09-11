@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vaaasm!
 - 👀 I’m interested in indie games, cartoons & anime, pixel art, and UI design.
-- 🌱 I’m currently learning front-end & back-end engineering, love2d, and GLSL.
+- 🌱 I’m currently learning front-end & back-end engineering, C# and GLSL.
 - 💞️ I’m looking to collaborate on jam games made in GameMaker.
 - 📫 How to reach me: vaaasm.dev@gmail.com or my discord @vaaasm
 - 😄 Pronouns: they/them
